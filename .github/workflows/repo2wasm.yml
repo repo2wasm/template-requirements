@@ -1,0 +1,14 @@
+name: Convert repository to Wasm-powered integrated development environment
+on:
+  push:
+    branches:
+      - main
+jobs:
+  create-ide:
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Create IDE and publish to GitHub Pages
+        uses: repo2wasm/gh-actions@0.2.0
