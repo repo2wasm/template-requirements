@@ -1,12 +1,15 @@
 # Python environment with a requirements.txt
 
+[![repo2wasm](https://img.shields.io/badge/any_text-launch-F37626?logo=jupyter&label=Jupyter)](https://repo2wasm.github.io/template-requirements)
+
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD)
 
-A Binder-compatible repo with a `requirements.txt` file.
+A repo compatible with `repo2wasm` and mybinder.org using a `requirements.txt` as configuration file.
 
-Access this Binder at the following URL
+Access the live version of this repo at
 
-http://mybinder.org/v2/gh/binder-examples/requirements/HEAD
+- [GitHub Pages](https://repo2wasm.github.io/template-requirements)
+- [mybinder.org](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD)
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
