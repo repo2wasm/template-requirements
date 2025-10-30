@@ -9,7 +9,7 @@ A repo compatible with `repo2wasm` and mybinder.org using a `requirements.txt` a
 Access the live version of this repo at
 
 - [GitHub Pages](https://repo2wasm.github.io/template-requirements)
-- [mybinder.org](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD)
+- [mybinder.org](http://mybinder.org/v2/gh/repo2wasm/template-requirements/HEAD)
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
